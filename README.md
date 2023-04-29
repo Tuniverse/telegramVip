@@ -4,6 +4,9 @@
     TG：@gd801  
     电报群：@phpTRON   
     电报社区：www.telegbot.org
+	
+##### 图片示例
+<img src="https://github.com/smalpony/telegramVip/blob/main/%E6%B5%81%E7%A8%8B%E6%95%B0%E6%8D%AE%E7%A4%BA%E4%BE%8B.png">
 
 ### 详细说明
 	使用PHP代码构建支付订单,使用golang作为支付网关(因为没有找到TonSDK php版本)
